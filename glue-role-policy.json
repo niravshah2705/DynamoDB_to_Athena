@@ -1,0 +1,7 @@
+{
+  "Statement": {
+    "Effect": "Allow",
+    "Principal": { "Service": "glue.amazonaws.com" },
+    "Action": "sts:AssumeRole"
+  }
+}
