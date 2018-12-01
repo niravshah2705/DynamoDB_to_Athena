@@ -9,8 +9,15 @@ cd DynamoDB_to_Athena
 python awsglue.py <table Name>
 ```
 
+# Design Diagram
+
+![Design Diagram](https://d2908q01vomqb2.cloudfront.net/887309d048beef83ad3eabf2a79a64a389ab1c9f/2018/09/12/simplify-amazon-dynamodb-glue-athena-1-2.gif)
+
 # Future Steps
 - Would provide cloudformation script along with setup.sh
 - Would prepare Terraform script 
 - More customization with external parameterized command
 - Increase security by further reduce access granularity
+
+# Reference Document 
+- https://aws.amazon.com/blogs/database/simplify-amazon-dynamodb-data-extraction-and-analysis-by-using-aws-glue-and-amazon-athena/
