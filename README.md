@@ -21,3 +21,4 @@ python awsglue.py <table Name>
 
 # Reference Document 
 - https://aws.amazon.com/blogs/database/simplify-amazon-dynamodb-data-extraction-and-analysis-by-using-aws-glue-and-amazon-athena/
+- https://niravshah2705-software-engineering.blogspot.com/2018/12/dynamodb-to-s3-athena.html
